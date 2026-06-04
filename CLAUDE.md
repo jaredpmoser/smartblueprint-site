@@ -15,7 +15,7 @@ Jared P. Moser (JP)
 
 ## Brand
 - Name: Smart Blueprint
-- Tagline: Built to Your Exact Blueprint
+- Tagline: Built to Your Exact Blueprint / Big-business AI. Small-town simple.
 - Domain: smartblueprint.ai
 - Email: jp@smartblueprint.ai
 - Phone: (636) 542-8290
@@ -28,27 +28,36 @@ St. Charles County, West St. Louis County, Warren County, Lincoln County MO
 SMB verticals: contractors, restaurants, real estate, medical/dental, local retail
 Lead vertical: contractors (highest ROI pitch, fastest close)
 
+## Business Model (Current)
+One-time setup + training fees. Optional one-time add-on packs. NO recurring/hosting fees.
+
+**What we deliver:**
+- Custom AI knowledge base built around the client's business
+- Prompt library and workflow scripts (.md files, Claude/Gemini prompts)
+- Hands-on training — client runs everything on their OWN Claude or Gemini subscription (~$20/mo direct to Anthropic/Google)
+- No middleman. No lock-in. Client keeps the keys.
+
+**Positioning:**
+- Teach non-technical local shops to use AI themselves
+- Replace expensive web developers for routine tasks (e.g. snap a photo → AI writes the listing, updates the site, posts to socials)
+- Big-business AI expertise at small-town prices
+
+**Add-on packs (one-time):** new use cases, review response templates, social content workflows, quote/estimate tools
+
+## Pricing
+No published price list on the website. Primary CTA is Free Consult.
+Pricing discussed and quoted per engagement after consult.
+
 ## Positioning
 Enterprise-grade AI expertise brought to Main Street.
-Veteran-owned. No fluff. Custom-built for each client's business.
-Pain point: missed after-hours calls = lost jobs. One booked job pays months of retainer.
-
-## Pricing (Current)
-| Tier | Blueprint Fee | Monthly |
-|------|--------------|---------|
-| Tier 1 — Core Essentials | $499 | $99/mo |
-| Tier 2 — Growth Engine | $999 | $249/mo |
-| Tier 3 — Custom Stack | $2,000+ | $499/mo |
-
-Blueprint fee covers: intake, knowledge base build, QA, deployment, training.
-Monthly covers: updates, support, strategy sessions.
+Veteran-owned. No fluff. Client owns their AI — we build it, train them, walk away.
+Pain point: paying web developers $200+/mo for tasks AI can do in seconds.
 
 ## Go-To-Market
 - 25 contractor cold emails first batch
 - 25 restaurant cold emails second batch
 - Free 30-min consultation to close
-- Target: 3 clients / $1K MRR within 90 days
-- Churn risk: build 30-day onboarding sequence into every retainer
+- Target: 3 paid builds within 60 days
 
 ## Stack
 - Static HTML/CSS (no framework, no build step)
@@ -59,16 +68,16 @@ Monthly covers: updates, support, strategy sessions.
 
 ## Claude's Role
 Claude (claude.ai) is JP's business consultant, project manager, legal/tax advisor,
-and brand strategist. Claude Code handles repo/site work. Chrome extension handles
-web UI tasks. All three are coordinated by JP. Claude.ai is the authority on
-business strategy and decisions.
+and brand strategist. Claude Code handles repo/site work. Gemini assists with
+operational support and local market work. Claude.ai is the authority on business
+strategy and decisions.
 
 ## Active TODO
-1. SSL cert — GitHub provisioning (auto-enforced when ready)
-2. DKIM authentication — smartblueprint.ai
-3. Upload proposal/intake/outreach templates to Drive
-4. GBP verification pending → update name to Smart Blueprint
-5. LinkedIn company page
-6. Logo design (wife deciding)
-7. Chase Wentzville — business checking + SEP-IRA
-8. First client outreach — contractors batch 1
+1. DKIM authentication — smartblueprint.ai
+2. Upload proposal/intake/outreach templates to Drive
+3. GBP verification pending → update name to Smart Blueprint
+4. LinkedIn company page
+5. Logo design (wife deciding)
+6. Chase Wentzville — business checking + SEP-IRA
+7. First client outreach — contractors batch 1
+8. Calendly or booking link for Free Consult CTA (currently email/phone only)
