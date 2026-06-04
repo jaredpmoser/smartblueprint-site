@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl.exe -I *)",
+      "Bash(Resolve-DnsName *)",
+      "Bash(Get-Service *)",
+      "Bash(Get-ItemProperty *)",
+      "Bash(Get-ChildItem *)",
+      "Bash(Get-WinEvent *)",
+      "Bash(Get-MpPreference *)",
+      "Bash(Get-MpComputerStatus *)",
+      "Bash(Get-CimInstance *)",
+      "Bash(sc.exe query *)"
+    ]
+  }
+}
